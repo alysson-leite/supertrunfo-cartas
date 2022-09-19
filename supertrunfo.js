@@ -18,7 +18,7 @@ var carta1 = {
   
   var carta4 = {
     nome: "Pikachu",
-    imagem: "https://www.kindpng.com/picc/m/46-468771_pikachu-png-transparent-pikachu-png-png-download.png",
+    imagem: "https://sm.ign.com/ign_br/screenshot/default/025pikachu-os-anime-4_3pym.png",
     atributos: { Ataque: 4, Defesa: 6, Especial: 8 }
   }
   
